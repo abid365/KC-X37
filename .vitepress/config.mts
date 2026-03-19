@@ -5,6 +5,7 @@ export default defineConfig({
   title: "KC-XW-37BLE",
   description:
     "A documentation on XW-37 BLE chip used in kindly Cuddle pumping device",
+  base: "/KC-X37/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/microprocessor.png",
